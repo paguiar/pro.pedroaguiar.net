@@ -23,7 +23,7 @@ theme = "hello-friend-ng"
   contentTypeName = "posts"
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
   # Social icons
   [[params.social]]
