@@ -1,6 +1,9 @@
-baseurl = "/"
+baseURL = "http://pro.pedroaguiar.net"
 languageCode = "en-us"
 theme = "hello-friend-ng"
+
+[author]
+  name = "Pedro Aguiar"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -22,6 +25,19 @@ theme = "hello-friend-ng"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
+  # Social icons
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/paguiar/"
+
+  [[params.social]]
+    name = "stackoverflow"
+    url  = "https://stackoverflow.com/users/1457195/paguiar"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/paguiar32"
+
 [languages]
   [languages.en]
     title = "Pedro Aguiar"
@@ -31,7 +47,7 @@ theme = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "/home/paguiar"
+      logoText = "$ cd /home/paguiar"
       logoHomeLink = "/"
 
   # And you can even create generic menu
@@ -39,3 +55,8 @@ theme = "hello-friend-ng"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
