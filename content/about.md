@@ -20,7 +20,7 @@ I moved to Grenoble (France) when I was 24, where I hold a position as an R&D So
 
 ## This site
 
-I very recently decided that I wanted to increase my online presence to allow me to achieve my medium and long-term goals.
+I very recently decided that I wanted to increase my professional online presence to allow me to achieve my medium and long-term goals.
 This site is the entrypoint, index and/or homepage of this presence;
 the first stop to which I will redirect people to whom I am interested in professionally-connecting with.
 
